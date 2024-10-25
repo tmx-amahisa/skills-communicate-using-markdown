@@ -1,3 +1,7 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 # 一番大きい文字
 ## 二番目
 ### 三番目
